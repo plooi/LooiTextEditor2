@@ -1,0 +1,1 @@
+{'java': 'javac <<<file.java>>> &&  java <<<file>>>', 'py': 'python <<<file.py>>>', 'bat': '<<<file.bat>>>', 'html': 'explorer <<<file.html>>>', 'C:/Users/peter/Documents/Test.java': "echo 'hi' && javac Test.java &&  java Test"}
